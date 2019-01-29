@@ -8,7 +8,7 @@
   <li>Microsoft</li>
 </ul>
 ```
-- 使用傳統 JS 來取代 JSX 語法，程式碼將會更複雜
+- 使用傳統 JS 來取代 [example03](../example03) 裡的 JSX 語法，程式碼將會更複雜
 
 <br>
 
