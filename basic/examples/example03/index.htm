@@ -14,21 +14,26 @@
 	<div id="root"></div>
 
 	<script type="text/babel">
+		const company_list = ['Google', 'Facebook', 'Microsoft'];
+
 		class App extends React.Component {
 			render() {
-				return <h1>Hello, React</h1>
+				return (
+					<ul>{
+						// lambda expression: company => <li>company</li>
+						company_list.map(
+							(company) => 
+							{
+								return <li>{company}</li>;
+							}
+						)
+					}</ul>
+				);
 			}
 		}
-
-		/*
-		ReactDOM.render(
-			<h1>Hello, React</h1>, 
-			document.getElementById("root"));
-		*/
 		ReactDOM.render(
 			<App />, 
 			document.getElementById("root"));
-
 	</script>
 </body>
 </html>
