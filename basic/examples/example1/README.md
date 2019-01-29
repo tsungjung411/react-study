@@ -1,2 +1,2 @@
 ## Result:
-![](example1/result.png)
+![](result.png)
