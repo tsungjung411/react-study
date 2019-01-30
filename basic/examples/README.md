@@ -1,3 +1,6 @@
+- class XXX, extends YYY 屬於 ES6 (ECMAScript 6) 語法
+- javascript 裡的 <xxx>...</xxx> 標籤，屬於 [JSX 語法](https://blog.othree.net/log/2015/12/25/jsx-e4x/)
+
 - [example01](example01)
   - 使用傳統 JS 顯示 'Hello, React'
 - [example02](example02)
