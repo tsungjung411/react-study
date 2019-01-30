@@ -13,8 +13,12 @@
 - 使用 React 單一元件檔案(.jsx)來產生傳統 JS 檔(.js)
 ```bash
 $ npm install babel-preset-react
-$ babel --presets react App.jsx -o App.js # output
+$ babel --presets react App.jsx -o App.js 
 ```
+- ```--presets```: 在編譯前，執行指定的前置設定
+- ```-o```: 產生輸出檔
+- [What is the --save option for npm install?](https://stackoverflow.com/questions/19578796/what-is-the-save-option-for-npm-install)
+- [npm-install](https://docs.npmjs.com/cli/install)
 
 <br>
 
