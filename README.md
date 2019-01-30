@@ -3,4 +3,5 @@
 - [搞懂為何設定 REACT、JSX、ES2015、BABEL、WEBPACK 的學習筆記](http://blog.turn.tw/?p=3532)
 
 ## 基礎學習資源
+- [從零開始學 ReactJS](https://github.com/kdchang/reactjs101)
 - [猴子也能看懂的 React 教學 - 1 - React 概念](https://j6qup3.github.io/2016/08/06/猴子也能看懂的-React-教學-1)
