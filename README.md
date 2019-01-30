@@ -7,5 +7,7 @@
 - [ReactJS 的核心思維](https://medium.com/4cats-io/reactjs-%E5%B0%8F%E7%AD%86%E8%A8%98-440e78bdbe51)
 
 ## 基礎學習資源
+- [24 小時，React 快速入門](https://github.com/shiningjason/react-quick-tutorial)
 - [從零開始學 ReactJS](https://github.com/kdchang/reactjs101)
 - [猴子也能看懂的 React 教學 - 1 - React 概念](https://j6qup3.github.io/2016/08/06/猴子也能看懂的-React-教學-1)
+- [ReactJS Tutorial](https://www.tutorialspoint.com/reactjs/)
