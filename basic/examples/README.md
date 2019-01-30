@@ -4,7 +4,7 @@
   - 使用 React 單一元件來顯示 'Hello, React'
 - [example03](example03)
   - 使用 React 單一元件來顯示更複雜的、階層式資訊：```<ul><li><li>...</ul>```
-- [example03](example04)
+- [example04](example04)
   - 使用傳統 JS 來顯示更複雜的、階層式資訊：```<ul><li><li>...</ul>```
-- [example03](example05)
+- [example05](example05)
   - 使用傳統 JS 來顯示更複雜的、階層式資訊：```<ul><li><li>...</ul>```，並放置於單獨的檔案
