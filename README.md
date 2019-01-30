@@ -4,6 +4,7 @@
 ## 入門學習資源
 - [一看就懂的 JSX 簡明入門教學指南](https://blog.techbridge.cc/2016/04/21/react-jsx-introduction/)
 - [搞懂為何設定 REACT、JSX、ES2015、BABEL、WEBPACK 的學習筆記](http://blog.turn.tw/?p=3532)
+- [ReactJS 的核心思維](https://medium.com/4cats-io/reactjs-%E5%B0%8F%E7%AD%86%E8%A8%98-440e78bdbe51)
 
 ## 基礎學習資源
 - [從零開始學 ReactJS](https://github.com/kdchang/reactjs101)
